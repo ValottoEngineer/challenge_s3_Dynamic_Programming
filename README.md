@@ -23,11 +23,11 @@ Passo-a-passo para rodar o projeto:
 
 1. Clone o repositório do GitHub:
 ```
-git clone https://github.com/seu-usuario/lifelink.git
+[git clone https://github.com/seu-usuario/lifelink.git](https://github.com/ValottoEngineer/challenge_s3_Dynamic_Programming.git)
 ```
 2. Navegue até o diretório do projeto:
 ```
-cd lifelink
+cd challenge_s3_Dynamic_Programming
 ```
 3. Crie um ambiente virtual e ative-o:
 ```
@@ -39,42 +39,10 @@ venv\Scripts\activate (Windows)
 ```
 pip install -r requirements.txt
 ```
-5. Execute o código principal:
-```
-python main.py
-```
-6. Para gerar gráficos de desempenho dos residentes, execute:
-```
-python training_analysis.py
-```
 
 ## ⚙️ Executando os testes
 
 Os testes são automatizados e garantem que o sistema esteja funcionando conforme esperado.
-
-### 🔩 Testes de ponta a ponta
-
-Os testes de ponta a ponta verificam os seguintes aspectos:
-  • Simulações VR: Testa a execução dos cenários de treinamento em realidade virtual.
-  • Monitoramento de desenvolvimento: Verifica se os dados de performance dos residentes são capturados e armazenados corretamente.
-Para rodar os testes:
-```
-pytest tests/test_vr_simulation.py
-```
-
-### ⌨️ Testes de estilo de codificação
-
-Utilizamos o PEP8 como base para o estilo de código Python. Para verificar o estilo de código, use:
-```
-flake8 src/
-```
-
-## 📦 Implantação
-
-Se o projeto for implantado em um servidor, adicione as configurações de ambiente necessárias (como variáveis de ambiente e URLs de banco de dados) no arquivo .env. O sistema pode ser configurado para rodar com containers Docker, facilitando a implantação em ambientes de produção.
-```
-docker-compose up --build
-```
 
 ## ✒️ Autores
 
