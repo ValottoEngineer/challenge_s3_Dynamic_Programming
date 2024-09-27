@@ -1,6 +1,6 @@
 # Challenge HC LEPIC - Sprint 3 - Dynamic Programming 
 
-Este projeto é parte do desenvolvimento de uma solução chamada LifeLink, que visa auxiliar no treinamento de residentes de medicina utilizando realidade virtual (VR). A solução implementa um sistema onde residentes podem treinar e melhorar suas habilidades em cirurgias e procedimentos médicos simulados em um ambiente seguro e controlado. Através de uma interface interativa, tanto os residentes quanto seus tutores podem monitorar o progresso de treinamento e identificar áreas de melhoria.
+Este projeto é parte do desenvolvimento de uma solução proposta pela empresa LifeLink, que visa auxiliar no treinamento de residentes de medicina utilizando realidade virtual (VR). A solução implementa um sistema onde residentes podem treinar e melhorar suas habilidades em cirurgias e procedimentos médicos simulados em um ambiente seguro e controlado. Através de uma interface interativa, tanto os residentes quanto seus tutores podem monitorar o progresso de treinamento e identificar áreas de melhoria.
 
 ## 🚀 Começando
 
